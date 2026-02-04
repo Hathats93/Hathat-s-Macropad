@@ -4,8 +4,8 @@ This repository is for the Blueprint project from Hack Club
 ![image alt](https://github.com/Hathats93/Hathat-s-Macropad/blob/ca383306f2cf19706a57f29813326edd2129eca1/Screenshot%202026-01-29%20222336.png)
 
 
-# Bare case with only PCB
-![image alt](https://github.com/Hathats93/Hathat-s-Macropad/blob/db4622c66b172b6af4acd3352de0b4600cc34329/Screenshot%202026-02-03%20181531.png)
+# Bare case (top and bottom)
+![image alt]()
 
 
 
