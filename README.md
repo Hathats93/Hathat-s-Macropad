@@ -18,3 +18,16 @@ This repository is for the Blueprint project from Hack Club
 
 # PCB layout
 ![image alt](https://github.com/Hathats93/Hathat-s-Macropad/blob/ef7ef189b31848ccdb23dd97cfbb8131930acd4e/Screenshot%202026-01-14%20162259.png)
+
+
+##  Bill of Materials/BOM
+List of all parts used in my hackpad:
+
+| Part | Quantity | Description | 
+|------|----------|-------------|
+| Mechanical Key Switches | 11 | MX-style switches |
+| DSA Keycaps | 11 | Compatible with MX switches | 
+| Seeed XIAO RP2040 | 1 | Microcontroller | 
+| EC11 Rotary Encoder | 1 | Volue control | 
+| PCB | 1 | Double-sided | 
+| Case | 1 | 3D printed | 
