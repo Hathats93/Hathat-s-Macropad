@@ -9,10 +9,10 @@ This repository is for the Blueprint project from Hack Club
 
 
 
-# PCB Wiring schematic
+# PCB schematic
 ![image alt](https://github.com/Hathats93/Hathat-s-Macropad/blob/77271ea09e2baf730eb2d179de0a11cf554d1483/Screenshot%202026-01-27%20205313.png)
 
 
 
-# PCB schematic
+# PCB layout
 ![image alt](https://github.com/Hathats93/Hathat-s-Macropad/blob/ef7ef189b31848ccdb23dd97cfbb8131930acd4e/Screenshot%202026-01-14%20162259.png)
