@@ -1,5 +1,5 @@
 # Hathats' Macropad
-This repository is for the Blueprint project from Hack Club
+
 # Complete case with switches and keycaps installed
 ![image alt](https://github.com/Hathats93/Hathat-s-Macropad/blob/ca383306f2cf19706a57f29813326edd2129eca1/Screenshot%202026-01-29%20222336.png)
 
@@ -28,6 +28,6 @@ List of all parts used in my hackpad:
 | Mechanical Key Switches | 11 | MX-style switches |
 | DSA Keycaps | 11 | Compatible with MX switches | 
 | Seeed XIAO RP2040 | 1 | Microcontroller | 
-| EC11 Rotary Encoder | 1 | Volue control | 
+| EC11 Rotary Encoder | 1 | Volume control | 
 | PCB | 1 | Double-sided | 
 | Case | 1 | 3D printed | 
