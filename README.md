@@ -5,7 +5,9 @@ This repository is for the Blueprint project from Hack Club
 
 
 # Bare case (top and bottom)
-![image alt]()
+![image alt](https://github.com/Hathats93/Hathat-s-Macropad/blob/50984d5ebe8137c59c505a3c2affdcf921faede7/Screenshot%202026-02-03%20190818.png)
+
+![image alt](https://github.com/Hathats93/Hathat-s-Macropad/blob/50984d5ebe8137c59c505a3c2affdcf921faede7/Screenshot%202026-02-03%20190938.png)
 
 
 
