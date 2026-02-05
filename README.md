@@ -17,7 +17,7 @@
 
 
 # PCB layout
-![image alt](https://github.com/Hathats93/Hathat-s-Macropad/blob/ef7ef189b31848ccdb23dd97cfbb8131930acd4e/Screenshot%202026-01-14%20162259.png)
+![image alt](https://github.com/Hathats93/Hathat-s-Macropad/blob/93691e5d85ba9705e124c68c73501958e5c1018c/Screenshot%202026-02-04%20204543.png)
 
 
 ##  Bill of Materials/BOM
