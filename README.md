@@ -1,13 +1,13 @@
 # Hathats' Macropad
 
 # Complete case with switches and keycaps installed
-![image alt]()
+![image alt](https://github.com/Hathats93/Hathat-s-Macropad/blob/6fec1a20ab3a042e284ba4e149396d324af16c77/Images/Screenshot%202026-02-04%20212729.png)
 
 
 # Bare case (top and bottom)
-![image alt]()
+![image alt](https://github.com/Hathats93/Hathat-s-Macropad/blob/6fec1a20ab3a042e284ba4e149396d324af16c77/Images/Screenshot%202026-02-04%20212452.png)
 
-![image alt]()
+![image alt](https://github.com/Hathats93/Hathat-s-Macropad/blob/6fec1a20ab3a042e284ba4e149396d324af16c77/Images/Screenshot%202026-02-04%20212700.png)
 
 
 
